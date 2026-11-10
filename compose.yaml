@@ -1,0 +1,18 @@
+services:
+  web:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:${FIELD_FORGE_PORT:-8125}:8000"
+    environment:
+      DATABASE_PATH: /data/fieldforge.db
+      APP_SECRET: ${APP_SECRET:?Set APP_SECRET in .env before starting}
+    volumes:
+      - fieldforge_data:/data
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+volumes:
+  fieldforge_data:
