@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+<title id="title">FieldForge — Field Service Management</title><desc id="desc">FieldForge banner featuring a modern field service operations dashboard and scheduling, dispatch, customers, estimates and invoices.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071429"/><stop offset=".55" stop-color="#102d65"/><stop offset="1" stop-color="#08162f"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#347dff"/><stop offset="1" stop-color="#19baf9"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="32"/></filter>
+<filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".4"/></filter>
+</defs>
+<rect width="1600" height="760" fill="url(#bg)"/>
+<circle cx="180" cy="30" r="270" fill="#2374ff" opacity=".24" filter="url(#glow)"/><circle cx="1430" cy="660" r="310" fill="#1282ff" opacity=".2" filter="url(#glow)"/>
+<g fill="none" stroke="#5da6ff" opacity=".11"><path d="M0 615L500 760M170 550L820 760M1100 0L1600 250M1320 0L1600 150"/><path d="M0 695H1600M0 570H1600M0 440H1600"/></g>
+<rect x="450" y="57" width="72" height="72" rx="20" fill="#2e70ff"/><path d="M489 69L470 103H488L480 123L507 89H489L499 69Z" fill="#ffe04a"/>
+<text x="546" y="113" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" font-size="63" fill="#fff">FieldForge</text><circle cx="930" cy="105" r="7" fill="#287cff"/>
+<text x="800" y="183" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="bold" fill="#f8fbff">Your field operations. One powerful workspace.</text>
+<text x="800" y="222" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#9fbce3">Scheduling  •  Dispatch  •  Customers  •  Estimates  •  Invoices</text>
+<g filter="url(#shadow)">
+<rect x="288" y="280" width="1024" height="392" rx="19" fill="#e9f0fc" stroke="#84afff" stroke-width="3"/>
+<rect x="290" y="282" width="227" height="387" rx="16" fill="#14213a"/><rect x="502" y="282" width="808" height="387" rx="14" fill="#eff3f9"/>
+<text x="321" y="325" font-family="DejaVu Sans,Arial" font-size="24" font-weight="bold" fill="#fff">⚡ FieldForge</text>
+<text x="321" y="376" font-family="DejaVu Sans,Arial" font-size="13" fill="#a1b5d8">WORKSPACE</text><text x="321" y="400" font-family="DejaVu Sans,Arial" font-size="17" fill="#fff">Field Operations</text>
+<rect x="306" y="426" width="193" height="38" rx="8" fill="#294b7a"/><text x="328" y="450" font-family="DejaVu Sans,Arial" font-size="17" fill="#fff">Overview</text>
+<g font-family="DejaVu Sans,Arial" font-size="16" fill="#afc2e1"><text x="328" y="499">Jobs &amp; Dispatch</text><text x="328" y="541">Customers</text><text x="328" y="583">Estimates</text><text x="328" y="625">Invoices</text></g>
+<text x="547" y="322" font-family="DejaVu Sans,Arial" font-size="12" letter-spacing="2" fill="#6783b4">FIELD OPERATIONS / DASHBOARD</text>
+<text x="547" y="358" font-family="DejaVu Sans,Arial" font-weight="bold" font-size="29" fill="#192942">Good to see you.</text>
+<text x="547" y="387" font-family="DejaVu Sans,Arial" font-size="15" fill="#8295ae">Here's what's happening across your business.</text>
+<g font-family="DejaVu Sans,Arial">
+<rect x="546" y="414" width="173" height="96" rx="12" fill="#fff"/><rect x="733" y="414" width="173" height="96" rx="12" fill="#fff"/><rect x="920" y="414" width="173" height="96" rx="12" fill="#fff"/><rect x="1107" y="414" width="171" height="96" rx="12" fill="#fff"/>
+<g font-size="13" fill="#798ca8"><text x="560" y="441">Customers</text><text x="747" y="441">Active jobs</text><text x="934" y="441">Outstanding</text><text x="1121" y="441">Paid invoices</text></g>
+<g font-size="29" font-weight="bold" fill="#1b2d4c"><text x="560" y="482">347</text><text x="747" y="482">28</text><text x="934" y="482">$12,460</text><text x="1121" y="482">$58,320</text></g>
+<rect x="546" y="529" width="732" height="117" rx="12" fill="#fff"/><text x="562" y="557" font-size="18" font-weight="bold" fill="#172b49">Upcoming &amp; active jobs</text>
+<path d="M562 572H1260M562 607H1260" stroke="#e6edf6" stroke-width="2"/>
+<text x="566" y="592" fill="#304b70" font-size="15">10:00 AM</text><text x="728" y="592" fill="#172b49" font-size="15">HVAC maintenance</text><text x="1090" y="592" fill="#1870f4" font-size="15">In progress</text>
+<text x="566" y="631" fill="#304b70" font-size="15">1:00 PM</text><text x="728" y="631" fill="#172b49" font-size="15">Service appointment</text><text x="1090" y="631" fill="#526988" font-size="15">Scheduled</text>
+</g></g>
+<text x="800" y="728" text-anchor="middle" font-family="DejaVu Sans,Arial" font-size="18" fill="#9abce9">FIELD SERVICE MANAGEMENT PLATFORM</text>
+</svg>
