@@ -1,6 +1,6 @@
 # ⚡ FieldForge
 
-![FieldForge — Field service management platform](assets/fieldforge-cover.png)
+![FieldForge — Field service management platform](assets/fieldforge-cover.svg)
 
 
 **Field-service command center for home-service businesses.** A working self-hosted, multi-tenant SaaS MVP.
